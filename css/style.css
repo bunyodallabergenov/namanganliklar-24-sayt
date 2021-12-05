@@ -363,3 +363,8 @@ time {
   margin-left: auto;
   font-weight: 500;
 }
+
+/* FOOTER */
+.site-footer {
+  background: #7297EF;
+}
