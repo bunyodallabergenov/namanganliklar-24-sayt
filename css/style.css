@@ -367,4 +367,49 @@ time {
 /* FOOTER */
 .site-footer {
   background: #7297EF;
+  margin-top: 100px;
+}
+
+.footer-article {
+  margin: 40px 296px 40px 221px;
+  border-bottom: 3px solid #cecece;
+  padding-bottom: 30px;
+}
+
+.footer-info-list-div {
+  display: flex;
+ 
+}
+
+.footer-div {
+  width: 229px ;
+  margin-top: 10px;
+}
+
+.footer-div-text {
+  font-size: 12px;
+  line-height: 19px;
+  font-weight: 400;
+}
+
+.footer-info-all-div {
+  display: flex;
+  margin-left: 200px;
+}
+
+.footer-first-list-div{
+  margin-right: 100px;
+}
+
+.footer-info-item {
+ list-style: none;
+}
+
+.footer-info-link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 29px;
+  font-family: 'Rubik',sans-serif;
 }
